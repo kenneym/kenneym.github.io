@@ -163,12 +163,6 @@ GEM
     jekyll-theme-architect (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-basically-basic (1.4.2)
-      jekyll (~> 3.7)
-      jekyll-feed (~> 0.10)
-      jekyll-paginate (~> 1.1)
-      jekyll-seo-tag (~> 2.5)
-      jekyll-sitemap (~> 1.2)
     jekyll-theme-cayman (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -277,7 +271,6 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-theme-basically-basic
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
