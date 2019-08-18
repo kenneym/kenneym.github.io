@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Matt Kenney's About Page
+lang: en-US
+title: Matt Kenney
 email: mtnkenney2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     A guide to my mind, skills, and experiences.
@@ -23,23 +24,76 @@ description: >- # this means to ignore newlines until "baseurl:"
     a visitor trying to get a look into my life. Use this resouce however you
     like.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kenneym
+url: "http://localhost:4000"  # the base hostname & protocol for your site, e.g.http://example.com
+author:
+  name: Matt Kenney
+  picture: ./assets/19-20-MSLB-MattKenney-21-1.jpg
+  github_username: kenneym
+  LinkedIn: matt-kenney
+  rss: false
+logo: # path of site logo, e.g. "/assets/images/logo.png"
+search: # true, false (default)
+
+# search_full_content: false # true, false (default)
+# search_provider: # lunr (default), algolia
+# algolia:
+#   application_id: # YOUR_APPLICATION_ID
+#   index_name: # YOUR_INDEX_NAME
+#   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+#   powered_by: # true (default), false
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
+theme: jekyll-theme-basically-basic
+plugins: # previsously gems
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs # ignore Basically Basic sample site
+  - /example # ignore Basically Basic dev site
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+
+# add google analytics later:
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-1234567-8"
+#     anonymize_ip: false # default

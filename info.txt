@@ -1,0 +1,14 @@
+-  ### Experiences
+  This page details my work experience and involvements on campus. In addition, it showcases personal and academic projects I have undertaken over the past several years.
+
+  ### Skills
+  This page covers technical information about me and my capabilities. This page includes information on my:
+  - Coursework
+  - Development & Administration skills (i.e. languages/ tools I have worked with)
+  - Laboratory Skills
+  - Soft Skills
+
+  ### Values
+  [This](https://example.com)page covers information on what I value, in the workplace and otherwise, and what I spend my free time doing.
+
+--
