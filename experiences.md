@@ -3,4 +3,9 @@ layout: page
 title: Experiences
 permalink: /experiences/
 ---
-yup
+
+## Work Experience
+
+#### Bioinformatics at Cell Signaling Technologies
+![bioinformatics-internship](./assets/images/bioinfo-summary.jpg)
+
