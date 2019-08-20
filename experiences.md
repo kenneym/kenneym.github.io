@@ -1,11 +1,8 @@
 ---
-layout: page
 title: Experiences
+layout: collection
 permalink: /experiences/
+collection: experiences
+entries_layout: grid
 ---
-
-## Work Experience
-
-#### Bioinformatics at Cell Signaling Technologies
-![bioinformatics-internship](./assets/images/bioinfo-summary.jpg)
 
