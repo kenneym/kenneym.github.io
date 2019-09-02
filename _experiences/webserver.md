@@ -5,7 +5,9 @@ image:
   thumbnail: /assets/images/tf_thumb.png
 ---
 
-As a way to become better versed in computer architechture, I decided to build a personal GPU server from scratch. This server offers me the capability to run accelerated machine learning workloads using NVIDIA's CUDA, host a personal document cloud, and work on "the cloud" without leaving my own machine. To build the server, I used an Intel Xeon E5 Processor, a 1080Ti NVIDIA GPU, and a heavy duty server motherboard complete with lots of memory. In addition, I built several docker containers and automation scripts to help run web services on the server. Overall, working with this machine has vastly improved my understanding of both hardware and networking.
+As a way to become better versed in computer architechture, I decided to build a personal GPU server from scratch. This server offers me the capability to run accelerated machine learning workloads using NVIDIA's CUDA, host web applications, and work on "the cloud" without leaving my own machine. To build the server, I used an Intel Xeon E5 Processor, a 1080Ti NVIDIA GPU, and a heavy-duty server motherboard complete with 32GB of memory. 
+
+In addition, I built several docker containers and automation scripts to help run web services on the server. Overall, working with this machine has vastly improved my understanding of both hardware and networking.
 
 # Web Services:
 As part of my work on this server, I built several docker containers to run appliccations such as the following:
