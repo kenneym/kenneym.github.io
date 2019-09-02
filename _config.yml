@@ -50,6 +50,7 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-algolia
 feed:
   path: atom.xml
 
