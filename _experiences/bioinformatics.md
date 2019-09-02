@@ -2,7 +2,7 @@
 title: Bioinformatics at Cell Signaling Technologies
 image: 
   path: /assets/images/bioinfo-summary.jpg
-  thumbnail: /assets/images/bioinfo-mini.jpg
+  thumbnail: /assets/images/bioinfo-summary_thumb.png
 ---
 ---
 Freshman Summer (2018), I worked a 12-week internship as a bioinformatics intern for [Cell Signaling Technologies](https://www.cellsignal.com), a mid-size biotechnology company which creates antibodies and information technology for biological research. Through this experience, I took my first major step into the world of computer science.
