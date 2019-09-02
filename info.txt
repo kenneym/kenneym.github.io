@@ -12,3 +12,7 @@
   [This](https://example.com)page covers information on what I value, in the workplace and otherwise, and what I spend my free time doing.
 
 --
+
+HTML Portrait:
+
+  <img class="circular--portrait" src="/assets/images/headshot.jpg">
