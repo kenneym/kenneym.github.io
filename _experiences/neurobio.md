@@ -6,14 +6,20 @@ image:
 ---
 My work at the Laboratory of Cognitive Neurobiology at BU Medical was my first foray into research, and an amazing experience. As a Junior in high school, I participated in my high school's "Authentic Science Research"(ASR) Program. This program allowed a select group of seniors to study of scientific field of throughout the school year in the form of a research class. At the end of our year of personal study, all members of the program were encouraged to go and pursue an internship in their selected area of study. For my experience in ASR, I choose to study clinical neurobiology, and was fortunate enough to have Professor Douglas Rosene accept me in for a summer internship in his laboratory.
 
+---
+
 ## The Lab
 
 ![Lab-image](/assets/images/neurobio-lab.jpg)
 
 The Laboratory of Cogntive Neurobiology focuses the majority of their research efforts on the neuological bases for learning and memory in non-human primates (NHPs), with a particular interest in aging and age-related disease. The lab uses Rhesus monkeys as a model for human aging and age-related disease, using behavioral data and brain-tissue analysis to uncover neurobiological mechanisms under study. For more information, check out their [homepage](http://www.bumc.bu.edu/anatneuro/research/cognitive-neurobiology/).
 
-### Learning the Ropes
+---
+
+## Learning the Ropes
 Under Dr. Rosene, I learned the ropes of working with tissues, learning key lab techniques, and better familiarizing myself with NHP brain anatomy. After this preliminary training was complete, I began work on two projects.
+
+---
 
 ## Chronic Traumatic Encephalopathy:
 ![CTE-football](/assets/images/cte-football.jpg)
@@ -24,6 +30,8 @@ In addition to the lab skills I gained through aiding McKee's work, I found that
 
 About a year after participating in this work, the study I worked on under McKee was published and shook the media, leading to a much-needed publicity crisis for NFL and greater public awareness about the disease. To read more about this study, check out this post from [The Brink](http://www.bu.edu/articles/2017/cte-former-nfl-players/).
 
+--- 
+
 ## Near-Infrared Light Detection of Alzheimer's Disease
 ![NIRS-in-vivo](/assets/images/nirs-detection.png)
 
@@ -33,10 +41,13 @@ The new optical technique created by Hanlon involves passing near-infrared light
 
 My team's job was to determine which particular features of the Alzheimer's tissue were responsible for changes in the light diffraction profile. We conducted immunohistochemical assays and stereology on Alzheimer's and control brain tissue throughout the summer to zero-in on these features.
 
+
 ### End-Goal
 If we could determine what features were causing the abnormal light-diffraction profile in Alzheimer’s tissue, we could identify whether or not the abnormal diffraction profile would be consistant across all Alzheimer’s patients. Further, we could instruct Dr. Hanlon to fine-tune his detection mechanism. 
 
 The ultimate goal of the experiment was to improve the detection technique to the point where it could be used to detect the presence of Alzheimer's disease in living people, ideally before the presentation of clinical memory impairments. Such a tool could allow Alzheimer's patients to take preventative measures prior to developing the full disease symptomology. This project remains ongoing, and has been under active development long after I left the lab at the conclusion of my internship
+
+---
 
 ## Reserach Presentation:
 As a part of my Authentic Science Research program, I presented my research at the JSHS high school STEM compeition, run by the Department of Defense. To get a closer look at my research, click my poster below, or read my [paper](/assets/pdfs/in-vivo-imaging.pdf) summarizing the reserach project.

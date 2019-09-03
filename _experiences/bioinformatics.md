@@ -4,7 +4,6 @@ image:
   path: /assets/images/bioinfo-summary.jpg
   thumbnail: /assets/images/bioinfo-summary_thumb.png
 ---
----
 Freshman Summer (2018), I worked a 12-week internship as a bioinformatics intern for [Cell Signaling Technologies](https://www.cellsignal.com), a mid-size biotechnology company which creates antibodies and information technology for biological research. Through this experience, I took my first major step into the world of computer science.
 
 While at CST I Worked to spearhead CST’s exploration of computational chemistry for antibody development, performed extensive research and code development in the drug discovery space, developed key enterprise and academic partners for CST’s further exploration of molecular dynamics, and wrote advisory documentation for the company to move forward. Further, I built upon and containerized existing molecular dynamics softwares for use on GPU-enabled cloud services. **For more background on my work, read ahead. For a visual, check out my [poster](/assets/pdfs/bioinfo-poster.pdf) for the summer**
@@ -71,6 +70,7 @@ In order to leverage molecular dynamics softwares, one must begin with a digital
 
 In order to make molecular dynamics workflows more accessable and cost-effective for use at my company, as the final leg of my 12-week internship at CST, I began to develop a methodology for CST to transition antibody genetics sequences into full-fledged stuctural models for use in molecular dynamics programs. My work on this project involved significant research, writing numerous python scripts, and developing key academic and institutional partenrs for CST to pursue this goal further. Institutional partners whom I spoke with and brought on-board include the [OSPREY Lab at Duke](https://www2.cs.duke.edu/donaldlab/osprey.php), and researchers at the [Kellog Cancer Center](https://www.northshore.org/kellogg-cancer-center/). Unfortunately, I cannot share the code or advisory documentation I completed for this poriton of my work as it is proprietary for the time being.
 
+---
 
 ## Poster:
 As part of my internship, I made a poster to present to the company. Click on the poster below to see a visual summmary of my work.

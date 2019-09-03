@@ -1,13 +1,15 @@
 ---
 title: Building a GPU Server
 image:
-  path: /assets/images/server-collage.jpg
-  thumbnail: /assets/images/server-collage_thumb.jpg
+  path: /assets/images
+  thumbnail: /assets/images/tf_thumb.png
 ---
 
 As a way to become better versed in computer architechture, I decided to build a personal GPU server from scratch. This server offers me the capability to run accelerated machine learning workloads using NVIDIA's CUDA, host web applications, and work on "the cloud" without leaving my own machine. To build the server, I used an Intel Xeon E5 Processor, a 1080Ti NVIDIA GPU, and a heavy-duty server motherboard complete with 32GB of memory. 
 
 In addition, I built several docker containers and automation scripts to help run web services on the server. Overall, working with this machine has vastly improved my understanding of both hardware and networking.
+
+---
 
 # Web Services:
 As part of my work on this server, I built several docker containers to run appliccations such as the following:
@@ -18,6 +20,8 @@ As part of my work on this server, I built several docker containers to run appl
 * Gitlab
 
 Through this process, I designed a unique and simple methodology to deploy a container-based NGINX reverse proxy, complete with SSL encryption, automatically-generated CA certficiates, and more. Using my NGINX reverse proxy strategy, a user can easily deploy a website or service and host it securely on the web within minutes. *Note that documentation is forthcoming*, but you can find all of my docker-compose files and web service containers {% include icon-github.html username='kenneym/personal-server-containers' label='here.'%}
+
+---
 
 # Current Build:
 To build the server, a friend and I sourced materials off of Ebay and Amazon, and I constructed the machine from scratch. Overall, we spent about 80% below normal market price. Below is our current hardware configuration.
