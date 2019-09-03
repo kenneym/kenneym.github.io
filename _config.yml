@@ -103,8 +103,4 @@ defaults:
       layout: post
       read_time: true
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-146782153-1"
-    anonymize_ip: false # default
+google_analytics: UA-146782153-1
