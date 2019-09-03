@@ -35,7 +35,7 @@ permalink: /skills/
 - **Experience**: Learned Matlab through "Foundations of Applied CS" (CS11) at Dartmouth. Projects included applying linear algebra for image manipulation projects such as [Gradient Domain Fusion using Poisson Blending](http://cs.brown.edu/courses/cs129/results/proj2/taox/), employing [Expectation-maximization models](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm), and designing simple [linear classifiers](https://en.wikipedia.org/wiki/Linear_classifier).
  
 #### ![VHDL](/assets/images/fpga-icon.png) `VHDL`
-- **Experience**: I learned Digital Logic and VHDL through my Digital Electronics (CS56) Course at Dartmouth. You can view some of my work by taking a look at my [RSA Encryption Module](experiences/fpga-rsa)
+- **Experience**: I learned Digital Logic and VHDL through my Digital Electronics (CS56) Course at Dartmouth. You can view some of my work by taking a look at my [RSA Encryption Module](/experiences/fpga-rsa/)
 
 #### <i class="devicon-mysql-plain"></i> `SQL`
 - **Experience**: I learned SQL through an online course offered by IBM. Throughout the next few months, I plan to learn Hadoop & Aparche Spark to better equip myself in the field of computer science.
@@ -50,13 +50,13 @@ permalink: /skills/
 - **Experience**: Have spent 1000s of hours on the command line. Comfortable working with servers, web services, etc. Well versed in working with Debian, RHEL, and Arch-based systems.
 
 #### <i class="devicon-docker-plain"></i> `Docker`
-- **Experience**: Experience writing `Dockerfiles`, creating highly customized containers, writing docker-compose scripts, and working with automation tools like `docker-swarm`. Limited exposure to `kubernetes`. See my [SSL Web Services containers](https://github.com/kenneym/personal-server-containers) or my `nvidia-docker` [molecular dynamics containers](https://github.com/kenneym/vmd-namd-gpu-containers) for a sample of my work.
+- **Experience**: Experience writing `Dockerfiles`, creating highly customized containers, writing `docker-compose` scripts, and working with automation tools like `docker-swarm`. Limited exposure to `kubernetes`. See my [SSL Web Services containers](https://github.com/kenneym/personal-server-containers) or my `nvidia-docker` [molecular dynamics containers](https://github.com/kenneym/vmd-namd-gpu-containers) for a sample of my work.
 
 #### Other General Skills
 - Master of the `vim` editor
 - Working with `git`
 - Working with cloud services such as `AWS`
-- Strong knowledge of hardware and alternative processor design. See [my personal server build](experiences/webserver), or my the [RSA Encryption Module](experiences/fpga-rsa) I built on an FPGA.
+- Strong knowledge of hardware and alternative processor design. See [my personal server build](/experiences/webserver), or my the [RSA Encryption Module](/experiences/fpga-rsa) I built on an FPGA.
 - Strong knowledge of networking
 
 
@@ -66,12 +66,11 @@ permalink: /skills/
 ---
 ## <span style="color:teal">Laboratory Skills</span>:
 
-- Immunohistochemistry
+- [Immunohistochemistry](/experiences/ihc)
 - ELISA
 - PCR
 - Experimental Design
 - Basic Laboratory Skills
 - Handling, slicing, and mounting tissue
 - Analysis of tissue pathology (limited experience)
-
 
