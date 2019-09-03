@@ -5,11 +5,10 @@ permalink: /skills/
 ---
 
 ---
-## <span style="color:lightblue">Leadership</span>:
-Fostering and leading teams, ideation, effective communication, negotiation, both detail and big-picture oriented.
+## <span style="color:teal">Leadership</span>:
 
 ### Experience:
-- **Chair of the Magnuson Center for Entrepreneurship** : Collectively, the student board organizes student entrepreneurship activities and workshops, draws student interest to venture capital and entrepreneurship, engages with Dartmouth alum in the innovation space, and works with administration on programming, funding structure, and the development of programs such as the TuckLab Program listed below.As chair, I manage our leaders and work with Center’s Alumni Board as our representative
+- **Chair of the Magnuson Center for Entrepreneurship** : Collectively, the student board organizes student entrepreneurship activities and workshops, draws student interest to venture capital and entrepreneurship, engages with Dartmouth alum in the innovation space, and works with administration on programming, funding structure, and the development of programs such as the TuckLab Program listed below.As chair, I manage our leaders and work with Center’s Alumni Board as our representative.
 
 - **Cofounder of Morton's Top Floor Coffee** : [Built a specialty cold-brew coffee company](/experiences/top-floor) & operated directly on campus. Sourced roasted beans through partnership with Flight Coffee co., a New Hampshire specialty roastery, brewed locally, delivered direct-to-dorm for our student customers. Through this process, I developed skills in leadershi, team-management, strategy, and negotiation.
 
@@ -19,7 +18,7 @@ Fostering and leading teams, ideation, effective communication, negotiation, bot
 
 ---
 
-## <span style="color:lightblue"> Coding Languages: </span>
+## <span style="color:teal"> Coding Languages: </span>
 
 
 #### <i class="devicon-python-plain-wordmark"></i> `Python`:
@@ -45,17 +44,18 @@ Fostering and leading teams, ideation, effective communication, negotiation, bot
 
 ---
 
-## <span style="color:lightblue">Software Tools </span>:
+## <span style="color:teal">Software Tools </span>:
 
- <i class="devicon-linux-plain"></i> `Linux Command Line`
+#### <i class="devicon-linux-plain"></i> `Linux Command Line`
 - **Experience**: Have spent 1000s of hours on the command line. Comfortable working with servers, web services, etc. Well versed in working with Debian, RHEL, and Arch-based systems.
 
 #### <i class="devicon-docker-plain"></i> `Docker`
 - **Experience**: Experience writing `Dockerfiles`, creating highly customized containers, writing docker-compose scripts, and working with automation tools like `docker-swarm`. Limited exposure to `kubernetes`. See my [SSL Web Services containers](https://github.com/kenneym/personal-server-containers) or my `nvidia-docker` [molecular dynamics containers](https://github.com/kenneym/vmd-namd-gpu-containers) for a sample of my work.
 
 #### Other General Skills
-- master of the `vim` editor
-- working with `git` in teams
+- Master of the `vim` editor
+- Working with `git`
+- Working with cloud services such as `AWS`
 - Strong knowledge of hardware and alternative processor design. See [my personal server build](experiences/webserver), or my the [RSA Encryption Module](experiences/fpga-rsa) I built on an FPGA.
 - Strong knowledge of networking
 
@@ -64,14 +64,14 @@ Fostering and leading teams, ideation, effective communication, negotiation, bot
 <br/>
 
 ---
-## <span style="color:lightblue">Laboratory Skills</span>:
+## <span style="color:teal">Laboratory Skills</span>:
 
-- Single and double label immunohistochemistry (2 summers' experience)
+- Immunohistochemistry
 - ELISA
 - PCR
 - Experimental Design
-- Basic Laboratory Skills: making buffered solutions, cover-slipping, micro-pipetting technique, etc.
-- Handling, slicing, and mounting tissue (down to 4 microns)
-- Limited training in analysis of brain tissue pathology
+- Basic Laboratory Skills
+- Handling, slicing, and mounting tissue
+- Analysis of tissue pathology (limited experience)
 
 

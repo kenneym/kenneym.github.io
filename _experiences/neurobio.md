@@ -21,7 +21,7 @@ Under Dr. Rosene, I learned the ropes of working with tissues, learning key lab 
 
 ---
 
-## Chronic Traumatic Encephalopathy:
+## Chronic Traumatic Encephalopathy
 ![CTE-football](/assets/images/cte-football.jpg)
 
 Dr. Rosene was kind enough to invite me to sit in and contribute my thoughts during several meetings between reseracher Ann McKee and her associates. McKee was in the process of compiling information regarding CTE in NFL players, other athletes, and former war veterans who had been exposed to blast trauma. I aided in her research throughout the summer by processing CTE brain tissue samples - conducting immunohistochemical assays in order to collect data on the expression and localization of disease-related proteins.
@@ -49,7 +49,7 @@ The ultimate goal of the experiment was to improve the detection technique to th
 
 ---
 
-## Reserach Presentation:
+## Reserach Presentation
 As a part of my Authentic Science Research program, I presented my research at the JSHS high school STEM compeition, run by the Department of Defense. To get a closer look at my research, click my poster below, or read my [paper](/assets/pdfs/in-vivo-imaging.pdf) summarizing the reserach project.
 
 [![Research Paper](/assets/pdfs/asr-poster.jpg)](/assets/pdfs/asr-poster.pdf)

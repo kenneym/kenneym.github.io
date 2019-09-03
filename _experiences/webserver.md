@@ -1,8 +1,8 @@
 ---
 title: Building a GPU Server
 image:
-  path: /assets/images
-  thumbnail: /assets/images/tf_thumb.png
+  path: /assets/images/server-collage.jpg
+  thumbnail: /assets/images/server-collage_thumb.jpg
 ---
 
 As a way to become better versed in computer architechture, I decided to build a personal GPU server from scratch. This server offers me the capability to run accelerated machine learning workloads using NVIDIA's CUDA, host web applications, and work on "the cloud" without leaving my own machine. To build the server, I used an Intel Xeon E5 Processor, a 1080Ti NVIDIA GPU, and a heavy-duty server motherboard complete with 32GB of memory. 

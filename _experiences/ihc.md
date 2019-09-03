@@ -10,7 +10,7 @@ For the summer following my senior year of high school (2017), I worked as a ful
 Cell Signaling Technologies is a biotechnology company focused on developing antibodies and information technology for biological researchers. My work over the summer involved testing potential antibody products for use in immunohistochemistry (see link above), a protocol which allows researchers to visualize, locate, and quantify protein expression in biological tissues. For more background on antibodies or how they're produced, read my [antibody background page](/antibody-background).
 
 ---
-# IHC Department:
+## IHC Department:
 The IHC department is a key component of CST's antibody production pipeline, and employs several pathologists to screen and validate CST's antibody products. My coworkers and I sought to rule out products that were unsatisfactory, ensuring that our clients recieved only the highest quality antibody products for their reserach. By providing quality products, we aimed to accelerate the workflows of tissue researchers across the world and ensure research reproducability ( since faulty products might lead to irreproducable work).
 
 ---
