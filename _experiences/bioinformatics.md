@@ -8,12 +8,14 @@ Freshman Summer (2018), I worked a 12-week internship as a bioinformatics intern
 
 While at CST I Worked to spearhead CST’s exploration of computational chemistry for antibody development, performed extensive research and code development in the drug discovery space, developed key enterprise and academic partners for CST’s further exploration of molecular dynamics, and wrote advisory documentation for the company to move forward. Further, I built upon and containerized existing molecular dynamics softwares for use on GPU-enabled cloud services. At the end of the summer, I was honored for my work with the **Yi-Tan Memorial Scholarship Award**, an award "presented to interns who have shown through their efforts and achievements to be an outstanding asset to CST and/or Bluefin Medicine." *For more background on my work, read ahead. For a visual, check out my [poster](/assets/pdfs/bioinfo-poster.pdf) for the summer*
 
-If you would like a background on antibodies and modern techniques for antibody design, head over to the [background page](/antibody-background).
+If you would like a background on antibodies and modern techniques for antibody design, head over to the [background page](/antibody-background). This page contains the background information neccessary to understand the projects below.
 
 ---
 
 # My Projects:
-My summer work centered around developing software, workflows, and partnerships to allow CST to move forward into the **in-silico** antibody design space (see [background](/antibody-background) for details. Embracing computational design will allow the company to rapidly accelerate their workflows and product quality.
+My summer work centered around developing software, workflows, and partnerships to allow CST to move forward into the **in-silico** antibody design space (see [background](/antibody-background)) for details. Embracing computational design will allow the company to rapidly accelerate their workflows and product quality.
+
+---
 
 ## Learning the Ropes
 My mentor for the summer, Ivan Gregoretti, PhD, prepared me for the summer by training me in basic software development skills, system administration skills, and additional skillsets specific to my assigned work. I spent my first few weeks on the job learning the following:
@@ -32,20 +34,21 @@ My mentor for the summer, Ivan Gregoretti, PhD, prepared me for the summer by tr
 **Specialized Skills**:
 - Gained familiarity in parallel computing and GPU processing
 - Learned how to build GPU-enabled containerized applicaitons, and how to leverage the `nvidia-docker` tool
-- Built a NVIDIA GPU machine from scratch. This excercise allowed me to develop and test GPU containers and codes I had written locally and on a native graphical interface, and also provided me a basic understanding of computer architechture. Througout the process of building the GPU machine, a fellow intern and I realized that many data scientists were unaware of how to properly install a GPU or how to install the proper drivers & software to run NVIDIA GPUs on their linux system. As such, we decided to write a guide in the Fedora Magazine on how to properly install GPU hardware and drivers on a Fedora linux system. Over the past year, this post has helped approximately 70,000 viewers. See the post [here](https://fedoramagazine.org/install-nvidia-gpu/)
+- Built a NVIDIA GPU machine from scratch. This excercise allowed me to develop and test GPU containers and codes I had written locally and on a native graphical interface, and also provided me a basic understanding of computer architechture. Through the process of building the GPU machine, a fellow intern and I realized that many data scientists were unaware of how to properly install a GPU or how to install the proper drivers & software to run NVIDIA GPUs on their linux system. As such, we decided to write a guide in the Fedora Magazine on how to properly install GPU hardware and drivers on a Fedora linux system. Over the past year, this post has helped approximately 70,000 viewers. See the post [here](https://fedoramagazine.org/install-nvidia-gpu/).
 
 ---
 
 ## Molecular Dynamics Containers
 ![nvidia-docker-logo](/assets/images/nvidia-docker-banner.png)
-Molecular dynamics is an extremely expensive process from a computational pepspective. In order to use it effectively to improve our antibody design process, our company needed to be able to deploy molecular dynamics software across our company server network and across cloud platforms. In order to make this possible, my first task as an intern was to develop configurable Docker containers for the popular molecular dynamics programs `VMD` (a visual molecular modelling program) and `NAMD` (a molecular dynamics engine).
+Molecular dynamics is an extremely expensive process from a computational pepspective. In order to use it effectively to improve our antibody design process, our company needed to be able to deploy molecular dynamics software across our company server network and across cloud platforms. In order to make this possible, my first task as an intern was to develop configurable Docker containers for the popular molecular dynamics programs [`VMD`](https://www.ks.uiuc.edu/Research/vmd/) (a visual molecular modeling program) and [`NAMD`](https://www.ks.uiuc.edu/Research/namd/) (a molecular dynamics engine).
 
 GPU Acceleration allows these programs to run up to 50X faster than on normal CPU servers, so I additionally built several containers ready for GPU workloads. These containers now allow CST to easily deploy molecular dynamics programs quickly and effectively, and to leverage the benefits of parallel computing.
 
-As part of the open source initiatives of my mentor, we decided to publish the containers I created to [**Github**](https://github.com/kenneym/vmd-namd-gpu-containers).
+As part of the open source initiatives of my mentor, we decided to publish the containers I created to {% include icon-github.html username='kenneym/vmd-namd-gpu-containers' label='Github'%}
 
+---
 
-### Structural Antibody Design using Alanine Scanning
+## Structural Antibody Design using Alanine Scanning
 {% include image.html url="/assets/images/viral-capsid.png" description="Simulation of a viral capsid immersed in water" %}
 
 As a part of my work, I developed a molecular dynamics workflow to improve our antibody design process. I developed guidelines, wrote scripts, and worked with industry experts in order to develop a method for CST to leverage molecular dynamics simulations for better antibody design. For this leg of my work, I employed my `NAMD` and `VMD` containers to leverage cloud resources.
@@ -60,7 +63,7 @@ The procedure I developed involves a process called **computational alanine scan
 
 4. Using a technique called Free-Energy-Perterbation, determine the change in the stability of the antibody. By replacing one residue with another, and measuring change in Gibbs free energy, we can discern the importance of the original residue.
 
-Using this process, researchers can determine whether or not they should make a change to a given residue contained within the antibody variable region. The computational alanine scanning protocols identifies whether or not any given amino acid is amenable to design changes. If a given amino acid in the template antibody is determined to be highly important to structural stablity, then researchers know not to alter it. On the other hand, if a given amino acid is found to be detrimental or unimportant to structural stablity, researchers know they may alter that amino acid in order to produce a superior antibody. In this way, computational alanine scanning provides highly valuable information to guide the antibody design process. Although it is just a first step, developing this workflow was an important first step for CST to transition into in-silico design.
+Using this process, researchers can determine whether or not they should make a change to a given residue contained within the antibody variable region. The computational alanine scanning protocol identifies whether or not any given amino acid is amenable to design changes. If a given amino acid in the variable region of the template antibody is determined to be highly important to structural stablity, then researchers know not to alter it. On the other hand, if a given amino acid is found to be detrimental or unimportant to structural stablity, researchers know they may alter that amino acid in order to produce a superior antibody. In this way, computational alanine scanning provides highly valuable information to guide the antibody design process. Developing this workflow was an important first step for CST to transition into in-silico design.
 
 ---
 
@@ -74,4 +77,5 @@ In order to make molecular dynamics workflows more accessable and cost-effective
 
 ## Poster:
 As part of my internship, I made a poster to present to the company. Click on the poster below to see a visual summmary of my work.
+</br>
 [![poster](/assets/pdfs/bioinfo-poster.jpg)](/assets/pdfs/bioinfo-poster.pdf)

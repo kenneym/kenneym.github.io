@@ -8,11 +8,12 @@ permalink: /skills/
 ## <span style="color:teal">Leadership</span>:
 
 ### Experience:
-- **Chair of the Magnuson Center for Entrepreneurship** : Collectively, the student board organizes student entrepreneurship activities and workshops, draws student interest to venture capital and entrepreneurship, engages with Dartmouth alum in the innovation space, and works with administration on programming, funding structure, and the development of programs such as the TuckLab Program listed below.As chair, I manage our leaders and work with Center’s Alumni Board as our representative.
+- **Chair of the Magnuson Center for Entrepreneurship** : Collectively, the student board organizes student entrepreneurship activities and workshops, draws student interest to venture capital and entrepreneurship, engages with Dartmouth alum in the innovation space, and works with the administration on programming, funding structure, and the development of academic programs such as the [TuckLab Program](https://www.tuck.dartmouth.edu/about/pilot-programs/tucklab). As chair, I work with our leaders to implement the Center's key programs, and work with the Center’s Alumni Board as our representative.
 
-- **Cofounder of Morton's Top Floor Coffee** : [Built a specialty cold-brew coffee company](/experiences/top-floor) & operated directly on campus. Sourced roasted beans through partnership with Flight Coffee co., a New Hampshire specialty roastery, brewed locally, delivered direct-to-dorm for our student customers. Through this process, I developed skills in leadershi, team-management, strategy, and negotiation.
 
-- **Captain of Manchester Essex Cross Country Team** : My senior year of high school, acting as captain of our high school cross-country team allowed me to develop my footing as a leader.
+- **Cofounder of Morton's Top Floor Coffee** : [Built a specialty cold-brew coffee company](/experiences/top-floor) & operated directly on campus. Sourced roasted beans through partnership with Flight Coffee co., a New Hampshire specialty roastery, brewed locally, delivered direct-to-dorm for our student customers. Through this process, I developed skills in leadership, team-management, buisness strategy, and negotiation.
+
+- **Captain of Manchester Essex Cross Country Team** : Throughout my senior year of high school, acting as captain of our high school cross-country team allowed me to develop my footing as a leader.
 
 <br/>
 
@@ -22,20 +23,20 @@ permalink: /skills/
 
 
 #### <i class="devicon-python-plain-wordmark"></i> `Python`:
-- **Key Libraries**: `NumPy`, `Pandas`, `Tensorflow`, `Matplotlib`, `SkiKitLearn`, `Biopython`, etc.
-- **Experience**: CS1 at Dartmouth, work in bioinformatics, and personal projects. See [my Tensorflow project](/experiences/antibody-ml) page or my [bioinformatics internship](/experiences/bioinformatics) page for details.
+- **Key Libraries**: `NumPy`, `Pandas`, `TensorFlow`, `Matplotlib`, `skikit-learn`, `biopython`, etc.
+- **Experience**: CS1 at Dartmouth, work in bioinformatics, and personal projects. See [my TensorFlow project](/experiences/antibody-ml) page or my [bioinformatics internship](/experiences/bioinformatics) page for details.
 
 #### <i class="devicon-java-plain"></i> `Java`
-- **Experience**: Coursework in CS10 AP Computer Science. Built several applications in this course, including a huffman file compression algorithm, a viturbi machine learnign algorithm, and a client/server program that allows multiple users to collaborate over the internet on a shared digital drawing (think Google Draw).
+- **Experience**: Coursework in CS10 AP Computer Science. Built several applications in this course, including a huffman file compression algorithm, a viturbi machine learning algorithm, and a client/server program that allows multiple users to collaborate over the internet on a shared digital drawing (think Google Draw).
 
 #### <i class="devicon-c-plain"></i> `C`
 - **Experience**: Gained a background in C through my CS50 course at Dartmouth. Wrote several thousand lines of code. See my [tiny search engine](https://gitlab.com/kenneym/tse) or my [cs50 final project](https://gitlab.com/kenneym/cs50-maze-project) for a look at some of the CS50 projects I completed.
 
 #### ![matlab](/assets/images/matlab.png) `Matlab`
-- **Experience**: Learned Matlab through "Foundations of Applied CS" (CS11) at Dartmouth. Projects included applying linear algebra for image manipulation projects such as [Gradient Domain Fusion using Poisson Blending](http://cs.brown.edu/courses/cs129/results/proj2/taox/), employing [Expectation-maximization models](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm), and designing simple [linear classifiers](https://en.wikipedia.org/wiki/Linear_classifier).
+- **Experience**: Learned Matlab through "Foundations of Applied CS" (CS11) at Dartmouth. Projects included applying linear algebra for image manipulation projects such as [Gradient Domain Fusion using Poisson Blending](http://cs.brown.edu/courses/cs129/results/proj2/taox/), employing [Expectation-maximization models](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm), using [Principle Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis) to build a face recognition model, and designing simple [linear classifiers](hrttps://en.wikipedia.org/wiki/Linear_classifier) using matrix math alone (no libraries).
  
 #### ![VHDL](/assets/images/fpga-icon.png) `VHDL`
-- **Experience**: I learned Digital Logic and VHDL through my Digital Electronics (CS56) Course at Dartmouth. You can view some of my work by taking a look at my [RSA Encryption Module](/experiences/fpga-rsa/)
+- **Experience**: I learned Digital Logic and VHDL through my Digital Electronics (CS56) Course at Dartmouth. You can view some of my work by taking a look at my [RSA Encryption Module](/experiences/fpga-rsa/).
 
 #### <i class="devicon-mysql-plain"></i> `SQL`
 - **Experience**: I learned SQL through an online course offered by IBM. Throughout the next few months, I plan to learn Hadoop & Aparche Spark to better equip myself in the field of computer science.
