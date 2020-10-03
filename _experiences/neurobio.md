@@ -4,7 +4,9 @@ image:
   path: /assets/images/BU-Med-School.jpg
   thumbnail: /assets/images/BU-Med-School_thumb.jpg
 ---
-My work at the Laboratory of Cognitive Neurobiology at BU Medical was my first foray into research, and an amazing experience. As a Junior in high school, I participated in my high school's "Authentic Science Research"(ASR) Program. This program allowed a select group of seniors to study of scientific field of throughout the school year in the form of a research class. At the end of our year of personal study, all members of the program were encouraged to go and pursue an internship in their selected area of study. For my experience in ASR, I choose to study clinical neurobiology, and was fortunate enough to have Professor Douglas Rosene accept me in for a summer internship in his laboratory.
+My work at the Laboratory of Cognitive Neurobiology at BU Medical was my first foray into research, and an amazing experience. As a Junior in high school, I participated in my high school's "Authentic Science Research"(ASR) Program. This program allowed a select group of seniors to study of scientific field of throughout the school year in the form of a research class. 
+
+At the end of our year of personal study, all members of the program were encouraged to go and pursue an internship in their selected area of study. For my experience in ASR, I choose to study clinical neurobiology, and was fortunate enough to have Professor Douglas Rosene accept me in for a summer internship in his laboratory.
 
 ---
 
