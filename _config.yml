@@ -17,11 +17,7 @@ lang: en-US
 title: Matt Kenney
 email: matthew.t.kenney.21@dartmouth.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    A guide to my mind, skills, and experiences.
-    I am a Dartmouth Junior, majoring in Computer Science and Neuroscience.
-    This site details my former work experience, projects I've undertaken, my
-    involvements, and any other information which might be useful to
-    a visitor trying to get a look into my life.
+    Matt's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://localhost:4000"  # the base hostname & protocol for your site, e.g.http://example.com
 author:
